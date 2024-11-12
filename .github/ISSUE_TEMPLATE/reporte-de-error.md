@@ -20,7 +20,7 @@ Pasos para reproducir el comportamiento:
 **Comportamiento esperado**
 Una descripción clara y concisa de lo que esperaba que sucediera.
 
-**Screenshots**
+**Capturas de pantalla**
 Si corresponde, agregue capturas de pantalla para ayudar a explicar su problema.
 
 **Hardware (por favor complete si pude la siguiente información):**
